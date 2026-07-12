@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yashzz26/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yashzz26/Leetcode/tree/master/0049-group-anagrams) |
+| [1331-rank-transform-of-an-array](https://github.com/Yashzz26/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashzz26/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashzz26/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashzz26/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yashzz26/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yashzz26/Leetcode/tree/master/0049-group-anagrams) |
+| [1331-rank-transform-of-an-array](https://github.com/Yashzz26/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashzz26/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Yashzz26/Leetcode/tree/master/0049-group-anagrams) |
+| [1331-rank-transform-of-an-array](https://github.com/Yashzz26/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashzz26/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
