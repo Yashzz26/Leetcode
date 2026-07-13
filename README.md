@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Yashzz26/Leetcode/tree/master/0044-wildcard-matching) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashzz26/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashzz26/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Yashzz26/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Yashzz26/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Yashzz26/Leetcode/tree/master/0049-group-anagrams) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yashzz26/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Yashzz26/Leetcode/tree/master/0044-wildcard-matching) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashzz26/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Yashzz26/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Yashzz26/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
