@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Yashzz26/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Yashzz26/Leetcode/tree/master/0050-powx-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashzz26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashzz26/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashzz26/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Yashzz26/Leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Yashzz26/Leetcode/tree/master/0050-powx-n) |
 ## Number Theory
 |  |
 | ------- |
