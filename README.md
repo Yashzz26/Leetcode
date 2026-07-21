@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yashzz26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Yashzz26/Leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Yashzz26/Leetcode/tree/master/0057-insert-interval) |
+| [1260-shift-2d-grid](https://github.com/Yashzz26/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashzz26/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashzz26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashzz26/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -88,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yashzz26/Leetcode/tree/master/0037-sudoku-solver) |
+| [1260-shift-2d-grid](https://github.com/Yashzz26/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Yashzz26/Leetcode/tree/master/0043-multiply-strings) |
+| [1260-shift-2d-grid](https://github.com/Yashzz26/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashzz26/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
