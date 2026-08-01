@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yashzz26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Yashzz26/Leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Yashzz26/Leetcode/tree/master/0057-insert-interval) |
+| [0486-predict-the-winner](https://github.com/Yashzz26/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashzz26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Yashzz26/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashzz26/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yashzz26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Yashzz26/Leetcode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Yashzz26/Leetcode/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashzz26/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashzz26/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Yashzz26/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Yashzz26/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Yashzz26/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Yashzz26/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashzz26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashzz26/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashzz26/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Yashzz26/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Yashzz26/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Yashzz26/Leetcode/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yashzz26/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yashzz26/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
